@@ -1,3 +1,7 @@
 data/raw/*.csv
 data/processed/*.csv
-models/
+models/*.pkl
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
